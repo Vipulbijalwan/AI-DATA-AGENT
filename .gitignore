@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+AI_Data_Agent-main.zip
+data/
+utils/data/
+test.py
